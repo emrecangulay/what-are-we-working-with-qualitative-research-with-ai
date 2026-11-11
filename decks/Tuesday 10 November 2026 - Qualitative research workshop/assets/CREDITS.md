@@ -23,6 +23,6 @@ The illustrations and screenshots come from Emrecan Gülay’s teaching demonstr
 
 | Slide | Material | Credit |
 | --- | --- | --- |
-| 5 | Research prototype and captioned recording | Prototype by Emrecan Gülay. Codex operated the prototype for this demonstration. |
+| 5 | Research prototype and captioned recording | Prototype by Emrecan Gülay. |
 | 6 | Anthropic Interviewer interface | [Anthropic](https://www.anthropic.com/research/anthropic-interviewer) |
 | 7 | InterviewBot role table and session controls, cropped from Figure 2 | [He Zhang, Kambinachi Chukwuma, ChanMin Kim and John M. Carroll, CC BY 4.0](https://arxiv.org/html/2608.10412v1) |
