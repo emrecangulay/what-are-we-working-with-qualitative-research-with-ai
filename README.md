@@ -4,6 +4,14 @@ Teaching materials and presentations on AI in qualitative research, by Emrecan G
 
 ## Presentations
 
+### Doing qualitative research in conversation with AI · Tuesday 10 November 2026
+
+[Open the workshop slides](https://emrecangulay.github.io/what-are-we-working-with-qualitative-research-with-ai/) · [Workshop credits](decks/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop/assets/CREDITS.md)
+
+- Morning lecture · [Workflows for qualitative researchers](https://emrecangulay.github.io/what-are-we-working-with-qualitative-research-with-ai/decks/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop%20-%201%20Lecture.html)
+- Workshop · [Exploring the positions a model responds from](https://emrecangulay.github.io/what-are-we-working-with-qualitative-research-with-ai/decks/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop%20-%202%20Workshop.html)
+- Final remarks · [Where are we going with qualitative research and AI?](https://emrecangulay.github.io/what-are-we-working-with-qualitative-research-with-ai/decks/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop/Tuesday%2010%20November%202026%20-%20Qualitative%20research%20workshop%20-%204%20Final%20remarks.html)
+
 ### Qualitative research with AI · Thursday 22 October 2026
 
 [Read the presentation (PDF)](decks/Thursday%2022%20October%202026%20-%20Qualitative%20research%20with%20AI/Thursday%2022%20October%202026%20-%20Qualitative%20research%20with%20AI.pdf) · [Browse the slides, sources and credits](decks/Thursday%2022%20October%202026%20-%20Qualitative%20research%20with%20AI)
